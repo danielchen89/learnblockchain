@@ -1,5 +1,7 @@
 区块链技术集训营作业
 
+课程链接： https://learnblockchain.cn/course/19
+
  # 登链社区所有区块链文档
  https://learnblockchain.cn/manuals
  
