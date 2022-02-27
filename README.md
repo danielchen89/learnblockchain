@@ -10,7 +10,9 @@
  https://learnblockchain.cn/manuals
  
  ## hardhat 文档
- https://learnblockchain.cn/docs/hardhat/getting-started/
+ 中文文档 https://learnblockchain.cn/docs/hardhat/getting-started/
+ 英文文档 https://hardhat.org/getting-started/
+ 教程 https://hardhat.org/tutorial/
  
  ## truffle文档
  
