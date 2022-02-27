@@ -1,6 +1,8 @@
 区块链技术集训营作业
 
 课程链接： https://learnblockchain.cn/course/19
+课代表作业: https://github.com/qq335103060/learnblockchain
+教师源码: https://github.com/xilibi2003/contract-training-code
 
  # 登链社区所有区块链文档
  https://learnblockchain.cn/manuals
