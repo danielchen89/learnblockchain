@@ -14,7 +14,7 @@
  
  英文文档 https://hardhat.org/getting-started/
  
- 教程 https://hardhat.org/tutorial/
+ 教程(非常好,简单明了) https://hardhat.org/tutorial/
  
  ## truffle文档
  
