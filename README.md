@@ -26,7 +26,7 @@
  ### ok的truffle-config配置
  https://oec-docs.readthedocs.io/en/latest/developers/deploy/truffle.html  
  
- ### solidity文档
+ ## solidity文档
  
  https://solidity-by-example.org/ 
  
