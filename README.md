@@ -28,9 +28,13 @@
  
  ## solidity文档
  
- https://solidity-by-example.org/ 
+ 僵尸之谜 https://cryptozombies.io/zh
  
- https://learnblockchain.cn/docs/solidity/
+ 通过example学习solidity  https://solidity-by-example.org/ 
+ 
+ Solidity 最新(0.8.0)中文文档 https://learnblockchain.cn/docs/solidity/
+ 
+全面掌握Solidity智能合约开发 https://learnblockchain.cn/column/1
  
  
  
