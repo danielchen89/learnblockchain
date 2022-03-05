@@ -27,6 +27,7 @@
  https://oec-docs.readthedocs.io/en/latest/developers/deploy/truffle.html  
  
  ## solidity文档
+ 基于 Web3/Solidity 的对抗游戏  https://ethernaut.openzeppelin.com/
  
  僵尸之谜 https://cryptozombies.io/zh
  
