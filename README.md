@@ -4,7 +4,7 @@
 
 课代表作业: https://github.com/qq335103060/learnblockchain
 
-           https://github.com/33357/class-contract
+https://github.com/33357/class-contract
 
 老师的源码: https://github.com/xilibi2003/contract-training-code
 
