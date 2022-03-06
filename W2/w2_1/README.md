@@ -3,5 +3,7 @@ https://ropsten.etherscan.io/tx/0xa95a6a29e7770fadea8319e769fa447cee0cd1f0d91d82
 # 通过 Metamask 向Bank合约转账ETH
 https://ropsten.etherscan.io/tx/0xa58c39d624f5a96c42c56eebd407b1f342217014dc55bf060fef84c8d012a0e6
 # 在Bank合约记录每个地址转账⾦额
+<img width="220" alt="1646581890(1)" src="https://user-images.githubusercontent.com/35557565/156930732-f66981f9-bfeb-4907-b5a8-516da3286a52.png">
+
 # 编写 Bank合约withdraw(), 实现提取出所有的 ETH
 https://ropsten.etherscan.io/tx/0x5f68836e64eb285eae3e6de327fdc2021eb8d4fff151a0cab6919e2bbeeec33f
