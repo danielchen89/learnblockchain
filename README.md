@@ -11,6 +11,9 @@ https://github.com/33357/class-contract
  # 登链社区所有区块链文档
  https://learnblockchain.cn/manuals
  
+ # 官方学习工具包
+ https://ethereum.org/zh/developers/learning-tools/
+ 
  ## hardhat 文档
  中文文档 https://learnblockchain.cn/docs/hardhat/getting-started/
  
