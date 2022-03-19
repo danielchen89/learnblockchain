@@ -37,3 +37,14 @@ W3_2作业
 * 发行一个 ERC721 Token
    * 使用 ether.js 解析 ERC721 转账事件(加分项：记录到数据库中，可方便查询用户持有的所有NFT)
    * (或)使用 TheGraph 解析 ERC721 转账事件
+
+W4_1作业
+* 部署自己的 ERC20 合约 MyToken
+* 编写合约 MyTokenMarket 实现：
+   * AddLiquidity():函数内部调用 UniswapV2Router 添加 MyToken 与 ETH 的流动性
+   * buyToken()：用户可调用该函数实现购买 MyToken
+
+W4_2作业
+* 在上一次作业的基础上：
+   * 完成代币兑换后，直接质押 MasterChef
+   * withdraw():从 MasterChef 提取 Token 方法
