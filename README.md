@@ -34,7 +34,9 @@ https://github.com/33357/class-contract
  ## solidity文档
  基于 Web3/Solidity 的对抗游戏  https://ethernaut.openzeppelin.com/
  
- 僵尸之谜 https://cryptozombies.io/zh
+ *** 僵尸之谜 https://cryptozombies.io/zh
+ 
+ （视频教程：https://space.bilibili.com/286084162/search/video?keyword=NFT%E5%8C%BA%E5%9D%97%E9%93%BE%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E8%AF%BE）
  
  通过example学习solidity  https://solidity-by-example.org/ 
  
