@@ -1,0 +1,8 @@
+#部署的几个合约地址，查询如下
+
+https://ropsten.etherscan.io/address/0xe6aC2b1dB59b2E83C18073dF8E28efa8290534A4
+
+facotryAddr:  0xe6aC2b1dB59b2E83C18073dF8E28efa8290534A4
+WETH address:  0x6aFB240E4bA75Ffc851D18109A4322304478cfa2
+Router address:  0xDDA9E0975Ee2254E9d7599332eA4C52A69B12B42
+
