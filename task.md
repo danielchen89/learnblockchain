@@ -59,3 +59,15 @@ W5_2作业
    * 在 AAVE 中借款 token A
    * 使用 token A 在 Uniswap V2 中交易兑换 token B，然后在 Uniswap V3 token B 兑换为 token A
    * token A 还款给 AAVE
+W6_1作业
+* 设计一个看涨期权Token:
+   * 创建期权Token 时，确认标的的价格与行权日期；
+   * 发行方法（项目方角色）：根据转入的标的（ETH）发行期权Token；
+   * （可选）：可以用期权Token 与 USDT 以一个较低的价格创建交易对，模拟用户购买期权。
+   * 行权方法（用户角色）：在到期日当天，可通过指定的价格兑换出标的资产，并销毁期权Token
+   * 过期销毁（项目方角色）：销毁所有期权Token 赎回标的。
+W6_2作业（可选）
+* 实现⼀个通过 DAO 管理资⾦的Treasury：
+   * 管理员可以从Treasury合约中提取资⾦withdraw（）
+   * 治理Gov合约作为管理员
+   * 通过发起提案从Treasury合约资金
