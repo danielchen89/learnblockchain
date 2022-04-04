@@ -45,9 +45,12 @@ https://github.com/33357/class-contract
 全面掌握Solidity智能合约开发 https://learnblockchain.cn/column/1
 
 
-## quicknode
+### quicknode 
 https://www.quicknode.com/docs/binance-smart-chain
- 
+
+### eth-brownie(python版hardhat)
+http://blog.hubwiz.com/2021/02/24/brownie-defi-tutorial/
+https://eth-brownie.readthedocs.io/en/stable/quickstart.html
  
  
  
