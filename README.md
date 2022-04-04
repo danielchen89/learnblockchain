@@ -43,6 +43,10 @@ https://github.com/33357/class-contract
  Solidity 最新(0.8.0)中文文档 https://learnblockchain.cn/docs/solidity/
  
 全面掌握Solidity智能合约开发 https://learnblockchain.cn/column/1
+
+
+## quicknode
+https://www.quicknode.com/docs/binance-smart-chain
  
  
  
