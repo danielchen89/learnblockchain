@@ -22,3 +22,7 @@ https://ropsten.etherscan.io/tx/0x0580cace13cf596f146a3b94973e96d3948264c940d0f9
 ### nft合约地址
 
 https://ropsten.etherscan.io/token/0xb5be5775faf912e147dd34f2dcd768deaa755fa1
+
+
+### 未完成部分
+使用remix进行nft铸造和部署，没用到deploy_erc721.js脚本
