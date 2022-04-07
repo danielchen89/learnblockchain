@@ -50,11 +50,13 @@ https://www.quicknode.com/docs/binance-smart-chain
 
 ### eth-brownie(python版hardhat)
 http://blog.hubwiz.com/2021/02/24/brownie-defi-tutorial/
+
 https://eth-brownie.readthedocs.io/en/stable/quickstart.html
  
  
 ### 快速创建erc20和erc721相关文档
 https://docs.openzeppelin.com/contracts/4.x/erc20
+
 https://docs.openzeppelin.com/contracts/4.x/erc721
 
  
