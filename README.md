@@ -44,6 +44,8 @@ https://github.com/33357/class-contract
  
 全面掌握Solidity智能合约开发 https://learnblockchain.cn/column/1
 
+solidity 0.8.0新特性系列教程  https://www.youtube.com/channel/UCv4y5qSUbJ8UC3CUmBPC_BA/videos
+
 
 ### quicknode 
 https://www.quicknode.com/docs/binance-smart-chain
